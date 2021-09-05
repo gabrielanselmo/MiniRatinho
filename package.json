@@ -2,9 +2,10 @@
   "name": "miniratinho",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "shard.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node shard.js",
+    "test": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/gabrielanselmo/MiniRatinho/issues"
   },
-  "homepage": "https://github.com/gabrielanselmo/MiniRatinho#readme"
+  "homepage": "https://github.com/gabrielanselmo/MiniRatinho#readme",
+  "dependencies": {
+    "discord.js": "^13.0.1"
+  }
 }
