@@ -25,7 +25,9 @@
     "fs": "^0.0.1-security",
     "glob": "^7.1.7",
     "klaw": "^3.0.0",
-    "mongoose": "^6.0.4",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.8",
+    "node-canvas-with-twemoji-and-discord-emoji": "^1.2.1",
     "path": "^0.12.7",
     "util": "^0.12.4"
   }
