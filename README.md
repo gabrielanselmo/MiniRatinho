@@ -4,6 +4,11 @@ MiniRatinho é o bot de discord desenvolvido ***EXCLUSIVAMENTE*** para o servido
 
 Não será tolerado um clone do MiniRatinho para se passar pelo mesmo em outros servidores, o acesso é de cunho de aprendizado e inspiração a desenvolver o próprio e com novas funcionalidades
 
+
+---
+**NÃO POSSUIMOS QUALQUER RESPONSABILIDADE POR SELF-BOTS E SEUS BUGS**
+---
+
 #
 
 
